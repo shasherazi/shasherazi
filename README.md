@@ -8,6 +8,6 @@
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/14725559/shasherazi)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://aur.archlinux.org/packages/dmenu-emoji)
 
-## About Me
+## `cat /home/shasherazi/aboutMe.txt`
 
 Hello, I am a full-stack developer with expertise in JavaScript, Ruby on Rails, React, and Redux. I am keen on Python and C/C++ and enjoy experimenting with new technologies. I am an avid chess player and Linux enthusiast in my free time. I use Linux as my primary operating system and like to tinker with it as a hobby. I am open to new opportunities and am excited to continue building my skills and working on new projects. Let's do something great together!
