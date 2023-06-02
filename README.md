@@ -7,6 +7,7 @@
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/shasherazi)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/14725559/shasherazi)
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://aur.archlinux.org/packages/dmenu-emoji)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/syedhassanaskri)
 
 ## `cat /home/shasherazi/aboutMe.txt`
 
